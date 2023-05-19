@@ -1,4 +1,3 @@
-const array { Criando arquivo J S;
-}
+const array { Criando arquivo J S; arquivo conflito }
 
-console('prendendo stash')
+console('prendendo stash', super conflito )
